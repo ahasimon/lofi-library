@@ -1,0 +1,21 @@
+{
+  "music": [
+    {
+      name: "Abstract Fashion Pop",
+      artist: "QubeSounds",
+      filename: "music_0.mp3"
+    },
+
+    {
+      name: "Ambient Classical Guitar",
+      artist: "William_King",
+      filename: "music_1.mp3"
+    },
+
+    {
+      name: "Calm Background For Video",
+      artist: "Ivymusic",
+      filename: "music_2.mp3"
+    }
+  ]
+}
