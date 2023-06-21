@@ -1,21 +1,104 @@
 {
-  "music": [
-    {
-      name: "Abstract Fashion Pop",
-      artist: "QubeSounds",
-      filename: "music_0.mp3"
-    },
-
-    {
-      name: "Ambient Classical Guitar",
-      artist: "William_King",
-      filename: "music_1.mp3"
-    },
-
-    {
-      name: "Calm Background For Video",
-      artist: "Ivymusic",
-      filename: "music_2.mp3"
-    }
-  ]
+   "music":[
+      {
+         "name":"Abstract Fashion Pop",
+         "artist":"QubeSounds",
+         "filename":"music_0.mp3"
+      },
+      {
+         "name":"Ambient Classical Guitar",
+         "artist":"William_King",
+         "filename":"music_1.mp3"
+      },
+      {
+         "name":"Calm Background For Video",
+         "artist":"Ivymusic",
+         "filename":"music_2.mp3"
+      },
+      {
+         "name":"Chill Abstract (Intention)",
+         "artist":"Coma-Media",
+         "filename":"music_3.mp3"
+      },
+      {
+         "name":"Easy Lifestyle",
+         "artist":"Lesfm",
+         "filename":"music_4.mp3"
+      },
+      {
+         "name":"Embrace",
+         "artist":"ItsWatR",
+         "filename":"music_5.mp3"
+      },
+      {
+         "name":"Into The Night",
+         "artist":"prazkhanal",
+         "filename":"music_6.mp3"
+      },
+      {
+         "name":"Jazzy Abstract Beat",
+         "artist":"Coma-Media",
+         "filename":"music_7.mp3"
+      },
+      {
+         "name":"Lofi Chill",
+         "artist":"FASSounds",
+         "filename":"music_8.mp3"
+      },
+      {
+         "name":"Lofi Study",
+         "artist":"FASSounds",
+         "filename":"music_9.mp3"
+      },
+      {
+         "name":"Milk Shake",
+         "artist":"Coma-Media",
+         "filename":"music_10.mp3"
+      },
+      {
+         "name":"Moment",
+         "artist":"SergeQuadrado",
+         "filename":"music_11.mp3"
+      },
+      {
+         "name":"Morning Garden - Acoustic Chill",
+         "artist":"Olexy",
+         "filename":"music_12.mp3"
+      },
+      {
+         "name":"Modern Chillout (Future Calm)",
+         "artist":"penguinmusic",
+         "filename":"music_13.mp3"
+      },
+      {
+         "name":"Relaxed Vlog (Night Street)",
+         "artist":"Ashot-Danielyan-Composer",
+         "filename":"music_14.mp3"
+      },
+      {
+         "name":"Showreel",
+         "artist":"QubeSounds",
+         "filename":"music_15.mp3"
+      },
+      {
+         "name":"Smoke",
+         "artist":"SoulProdMusic",
+         "filename":"music_16.mp3"
+      },
+      {
+         "name":"The Weekend",
+         "artist":"chillmore",
+         "filename":"music_17.mp3"
+      },
+      {
+         "name":"Tuesday",
+         "artist":"Amaksi",
+         "filename":"music_18.mp3"
+      },
+      {
+         "name":"Fluid",
+         "artist":"ItsWatR",
+         "filename":"music_19.mp3"
+      }
+   ]
 }
